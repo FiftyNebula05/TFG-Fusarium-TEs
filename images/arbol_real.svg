@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="816" height="588" name="arbol_real.svg" y="0" viewBox="0 0 816 588">
+<polyline points="816,588 0,588 0,0 816,0 816,588" fill="white" />
+<text x="557" y="55" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium fujikuroi</text>
+<polyline points="491,77 491,49 551,49" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="545" y="111" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium mangiferae</text>
+<polyline points="491,78 491,105 539,105" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="438,119 438,77 491,77" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="554" y="167" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium oxysporum</text>
+<polyline points="438,120 438,161 548,161" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="390,168 390,119 438,119" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="601" y="223" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium verticillioides</text>
+<polyline points="390,169 390,217 595,217" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="240,241 240,168 390,168" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="589" y="279" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium graminearum</text>
+<polyline points="405,315 405,273 583,273" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="604" y="335" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium culmorum</text>
+<polyline points="494,357 494,329 598,329" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="632" y="391" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium venenatum</text>
+<polyline points="494,358 494,385 626,385" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="405,316 405,357 494,357" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="240,242 240,315 405,315" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="40,341 40,241 240,241" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="632" y="447" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium solani</text>
+<polyline points="40,342 40,441 626,441" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="60" y1="476" x2="160" y2="476" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="60" y1="472" x2="60" y2="480" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="160" y1="472" x2="160" y2="480" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="102" y="508" fill="#000000" font-size="13" font-family="Times New Roman" >0.05</text>
+<text x="557" y="55" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium fujikuroi</text>
+<polyline points="491,77 491,49 551,49" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="545" y="111" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium mangiferae</text>
+<polyline points="491,78 491,105 539,105" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="438,119 438,77 491,77" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="554" y="167" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium oxysporum</text>
+<polyline points="438,120 438,161 548,161" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="390,168 390,119 438,119" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="601" y="223" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium verticillioides</text>
+<polyline points="390,169 390,217 595,217" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="240,241 240,168 390,168" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="589" y="279" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium graminearum</text>
+<polyline points="405,315 405,273 583,273" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="604" y="335" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium culmorum</text>
+<polyline points="494,357 494,329 598,329" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="632" y="391" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium venenatum</text>
+<polyline points="494,358 494,385 626,385" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="405,316 405,357 494,357" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="240,242 240,315 405,315" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="40,341 40,241 240,241" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="632" y="447" fill="#000000" font-size="16" font-family="Times New Roman" > Fusarium solani</text>
+<polyline points="40,342 40,441 626,441" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="60" y1="476" x2="160" y2="476" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="60" y1="472" x2="60" y2="480" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="160" y1="472" x2="160" y2="480" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="102" y="508" fill="#000000" font-size="13" font-family="Times New Roman" >0.05</text>
+</svg>

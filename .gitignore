@@ -1,0 +1,16 @@
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Binario externo (se descarga aparte, ver README)
+muscle.exe
+
+# Archivos intermedios que regenera el cuaderno
+*alineamiento*.fasta
+*_multifasta.fasta
+proteinas_TE.fasta
+Fot_prot.fasta
+/Fot.fasta
+Fot/Fot.fasta
+housekeeping/TEF1.fasta
+Carotenoides/carotenoides.fasta

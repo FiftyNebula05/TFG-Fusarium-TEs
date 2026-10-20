@@ -1,0 +1,9 @@
+name: tfg-fusarium
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - biopython
+  - matplotlib
+  - jupyterlab
+  - ipykernel
