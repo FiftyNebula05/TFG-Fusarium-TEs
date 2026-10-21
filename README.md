@@ -65,4 +65,4 @@ Código bajo licencia MIT (ver `LICENSE`).
 
 ## Autor
 
-*[Alberto García Sosa]*· Realizado en el grado en Bioquímica por la Universidad de Sevilla y la de Málaga.
+*Alberto García Sosa*. Realizado en el grado en Bioquímica por la Universidad de Sevilla y la de Málaga.
